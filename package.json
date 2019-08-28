@@ -1,0 +1,22 @@
+{
+  "name": "harper",
+  "version": "0.0.1",
+  "description": "Making lessons discoverable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvwilson/harper.git"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "Greg Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvwilson/harper/issues"
+  },
+  "homepage": "https://github.com/gvwilson/harper#readme"
+}
