@@ -61,6 +61,7 @@ some systems use `lesson.md` for the actual content of the lesson.
 ```
 schema: "harper-lite 0.1"
 title: "The Title of the Lesson"
+url: https://where.to.find/lesson
 abstract: >
   A single-paragraph summary of the lesson, the shorter the better.
   It can be broken across multiple lines as shown here, and can
@@ -154,6 +155,9 @@ notes: >
   material has only been used a couple of times, and probably needs more work.
 ```
 
+Please see [this file](./software-carpentry-shell-novice.yml)
+for a Harper description of [the Software Carpentry introduction to the Unix shell][swc-shell].
+
 ## Usage
 
 We support collaboration with a voting mechanism like [Stack Overflow][stack]'s,
@@ -245,3 +249,4 @@ Note that we archive past Harper files but not the actual lesson content.
 [harper-william]: https://en.wikipedia.org/wiki/William_Rainey_Harper
 [oer-landmines]: http://third-bit.com/2018/12/02/oer-landmines.html
 [stack]: http://stackoverflow.com
+[swc-shell]: http://swcarpentry.github.io/shell-novice/
